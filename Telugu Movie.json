@@ -1,0 +1,198 @@
+{
+  "TeluguMovie" : {
+	  "Movie":[
+		{
+			"id": 1,
+			"Video_Id": "OR3baA2yx7A",
+			"Movie_name": "Sir",
+			"Description": "A young man faces a difficult time as he struggles against the privatization of education.",
+			"Movieimg": "https://www.cinejosh.com/reviewsimg/big/sir-review_b_1702230652.jpg"
+		},
+		{
+			"id": 2,
+			"Video_Id": "W7kpeRWhuT0",
+			"Movie_name": "You Avakai Me Ice Cream",
+			"Description": "The plot revolves around two individuals in love. They both are professional chefs. They cross paths and things completely change. Will they be able to sort off the complexities and stay together?",
+			"Movieimg": "https://bingeddata.s3.amazonaws.com/uploads/2022/06/You-Avakai-Me-Ice-Cream-1.jpg"
+		},
+		{
+			"id": 3,
+			"Video_Id": "m6B7KGgC91U",
+			"Movie_name": "Desamuduru",
+			"Description": "After Bala, who works for a TV channel, gets into trouble with a thug, he is sent away for an out-of-town assignment. He meets and falls in love with a woman who is shortly kidnapped by a gangster.",
+			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/4/4a/Desamuduru_Poster.jpg"
+		},
+		{
+			"id": 4,
+			"Video_Id": "LVVrvbjjGbc",
+			"Movie_name": "O Manchi Roju Chusi Chepta",
+			"Description": "A tribal man, bound by tradition, arrives in the city to kidnap his betrothed. He incidentally also meets the girl's lover who, after realising his intentions, sets out to rescue her.",
+			"Movieimg": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/o-manchi-roju-chusi-chepta-et00309567-30-03-2021-03-51-03.jpg"
+		},
+		{
+			"id": 5,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 6,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 7,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 8,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 9,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 10,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 11,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 12,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 13,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 14,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 15,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 16,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 17,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 18,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 19,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		},
+		{
+			"id": 20,
+			"Video_Id": "",
+			"Movie_name": "",
+			"Description": "",
+			"Movieimg": ""
+		}
+	],
+	"MovieSlider":[
+		{
+			"id": 1,
+			"Video_Id": "Qumm9iKpRe8",
+			"qurekaimg":"",
+			"qurekaimg2":"",
+			"Movie_name": "Rudhurudu",
+			"Movieimg":"https://i.ytimg.com/vi/Qumm9iKpRe8/maxresdefault.jpg",
+            "Description": "",
+            "Language": "Hindi"
+		},
+		{
+			"id": 2,
+			"Video_Id": "NNVx4vm8bxU",
+			"qurekaimg":"",
+			"qurekaimg2":"",
+			"Movie_name": "PS2",
+			"Movieimg":"https://i.ytimg.com/vi/NNVx4vm8bxU/maxresdefault.jpg",
+            "Description": "",
+            "Language": "Hindi"
+		},
+		{
+			"id": 3,
+			"Video_Id": "BC9s_Zof_Xk",
+			"qurekaimg":"",
+			"qurekaimg2":"",
+			"Movie_name": "Virupaksha",
+			"Movieimg":"https://i.ytimg.com/vi/BC9s_Zof_Xk/maxresdefault.jpg",
+            "Description": "",
+            "Language": "Hindi"
+		},
+		{
+			"id": 4,
+			"Video_Id": "qLGZbo_YjqE",
+			"qurekaimg":"",
+			"qurekaimg2":"",
+			"Movie_name": "Ravanasura",
+			"Movieimg":"https://i.ytimg.com/vi/qLGZbo_YjqE/maxresdefault.jpg",
+            "Description": "",
+            "Language": "Hindi"
+		},
+		{
+			"id": 5,
+			"Video_Id": "8ZscPPpEWPo",
+			"qurekaimg":"",
+			"qurekaimg2":"",
+			"Movie_name": "Shaakuntalam",
+			"Movieimg":"https://i.ytimg.com/vi/8ZscPPpEWPo/maxresdefault.jpg",
+            "Description": "",
+            "Language": "Hindi"
+		}
+	]
+  }
+}
