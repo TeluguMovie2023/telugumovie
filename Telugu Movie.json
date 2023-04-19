@@ -254,6 +254,13 @@
 			"Movieimg": "https://m.media-amazon.com/images/M/MV5BYmZhMmNmZjItOGFlMS00OGE1LWI2ZGMtMDFmZGRlNGY1NWQ1XkEyXkFqcGdeQXVyNTUzMTc1NjE@._V1_.jpg"
 		},
 		{
+			"id": 37,
+			"Video_Id": "QcMPvcpAMEE",
+			"Movie_name": "Prince",
+			"Description": "Prince is a story of a thief who loses his memory one morning. A girl named Maya claims to be his girlfriend and tells him a story about his past which he believes. Later another woman named Maya claims to be his girlfriend who tells him another story.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMWY1MjEzZWItNjZiOC00YzY4LWJiMjgtMTU4MDczYWExYzIwXkEyXkFqcGdeQXVyMTEzNzg0Mjkx._V1_.jpg"
+		},
+		{
 			"id": 38,
 			"Video_Id": "OhAJlWYyGdQ",
 			"Movie_name": "Gentleman",
@@ -881,7 +888,7 @@
 			"Video_Id": "Mqr6fXUqIRw",
 			"Movie_name": "Yuddham Sharanam",
 			"Description": "When his parents' corpses are found in a river under mysterious circumstances, Arjun sets out to investigate their deaths. On finding certain disturbing truths, he vows revenge on their killers.",
-			"Movieimg": "tps://m.media-amazon.com/images/M/MV5BMWI3ZDVlMWYtZTEzNC00ODI2LWE0NzYtYWRkZjY5YjVlOWU4XkEyXkFqcGdeQXVyNjE1OTQ0NjA@._V1_.jpg"
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMWI3ZDVlMWYtZTEzNC00ODI2LWE0NzYtYWRkZjY5YjVlOWU4XkEyXkFqcGdeQXVyNjE1OTQ0NjA@._V1_.jpg"
 		},
 		{
 			"id": 128,
@@ -899,136 +906,136 @@
 		},
 		{
 			"id": 130,
-			"Video_Id": "",
-			"Movie_name": "",
-			"Description": "",
-			"Movieimg": ""
+			"Video_Id": "DHAoaW51hh8",
+			"Movie_name": "Superhit Hero",
+			"Description": "Somaraju is a leading businessman in Vishakhapatnam. Mysamma is a close member of Somaraju who handles his deals in Hyderabad. Mahalakshmi is Somaraju's daughter, and he dearly loves her.",
+			"Movieimg": "https://i.ytimg.com/vi/DHAoaW51hh8/maxresdefault.jpg"
 		},
 		{
 			"id": 131,
-			"Video_Id": "",
-			"Movie_name": "",
-			"Description": "",
-			"Movieimg": ""
+			"Video_Id": "3WUKuxLCbcM",
+			"Movie_name": "Taskara",
+			"Description": "Taskara is a fictional vigilante hacker superhero who appears in Indian comic books published by Fenil Comics. Created by graphic novelist Kiriti Rambhatla the character is the alias of Dr. Arjun Kumar, an influential Indian born economist who works at the IMF before turning into an underground hacker.",
+			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/Taskara_Theatrical_Poster.png/220px-Taskara_Theatrical_Poster.png"
 		},
 		{
 			"id": 132,
-			"Video_Id": "",
-			"Movie_name": "",
-			"Description": "",
-			"Movieimg": ""
+			"Video_Id": "Eo2ISADzB5o",
+			"Movie_name": "Kappirithuruthu",
+			"Description": "Kaappiri Thuruth is a travel of journey of our tradition and music that touches up with the stories of love, celebrations and fighting in our history.",
+			"Movieimg": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Kappiri_Thuruthu_poster.jpg/220px-Kappiri_Thuruthu_poster.jpg"
 		},
 		{
 			"id": 133,
-			"Video_Id": "",
-			"Movie_name": "",
-			"Description": "",
-			"Movieimg": ""
+			"Video_Id": "Eo9WdJGjq4E",
+			"Movie_name": "Derick Abraham: Murder Case",
+			"Description": "Derick Abraham is a successful police officer who is the final word in every investigation. He handles even the toughest of cases that deal with tough criminals.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMTU4ZWZkYzYtNDY1Yy00YWZkLTk4ODQtOTI5N2MzMzMxMTIwXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_FMjpg_UX1000_.jpg"
 		},
 		{
 			"id": 134,
-			"Video_Id": "",
-			"Movie_name": "",
-			"Description": "",
-			"Movieimg": ""
+			"Video_Id": "djYbWm5ygto",
+			"Movie_name": "Metro",
+			"Description": "Arivu is a writer for a press and the eldest son of a retired police head constable and his wife. He has a brother named Mathiyazhagan aka Mathi, who is a first-year engineering student.",
+			"Movieimg": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/metro-et00053742-20-02-2017-08-07-15.jpg"
 		},
 		{
 			"id": 135,
-			"Video_Id": "",
-			"Movie_name": "",
-			"Description": "",
-			"Movieimg": ""
+			"Video_Id": "wFjVQ6LTXtk",
+			"Movie_name": "Mukunda",
+			"Description": "Mugundan and Arjun are close friends, with the latter being in love with a powerful bureaucrat's niece. Whenever the bureaucrat endeavours to exterminate Arjun, Mugundan protects him with all his might.",
+			"Movieimg": "https://akamaividz2.zee5.com/image/upload/w_504,h_756,c_scale,f_webp,q_auto:eco/resources/0-0-2698/portrait/002698cover1841164850.jpg"
 		},
 		{
 			"id": 136,
-			"Video_Id": "",
-			"Movie_name": "",
-			"Description": "",
-			"Movieimg": ""
+			"Video_Id": "2JjhaxDOLlM",
+			"Movie_name": "Shakti",
+			"Description": "A secret agent accidentally finds a diamond and informs the owner, who reveals the secret of the diamond and the young man's past. Soon, the agent also gets to know of his father's killer's whereabouts, and he sets out to exact revenge.",
+			"Movieimg": "https://i.ytimg.com/vi/2JjhaxDOLlM/maxresdefault.jpg"
 		},
 		{
 			"id": 137,
-			"Video_Id": "",
-			"Movie_name": "",
-			"Description": "",
-			"Movieimg": ""
+			"Video_Id": "gK4LhgMzCwk",
+			"Movie_name": "Jinka Karate",
+			"Description": "Five friends meet a mystic in a forest who grants their wish — a newspaper from the future. They decide to get rich by using their knowledge of the future.",
+			"Movieimg": "https://i.ytimg.com/vi/gK4LhgMzCwk/maxresdefault.jpg"
 		},
 		{
 			"id": 138,
-			"Video_Id": "",
-			"Movie_name": "",
-			"Description": "",
-			"Movieimg": ""
+			"Video_Id": "7PHR4xEQbS4",
+			"Movie_name": "23 Planned Murder",
+			"Description": "Ann and Freddy marry against the wishes of their parents and lead a happy life. However, their lives take a turn when Freddy gets involved in solving a case after reading a book gifted to Ann.",
+			"Movieimg": "https://i.ytimg.com/vi/7PHR4xEQbS4/maxresdefault.jpg"
 		},
 		{
 			"id": 139,
-			"Video_Id": "",
-			"Movie_name": "",
-			"Description": "",
-			"Movieimg": ""
+			"Video_Id": "lnyl_p4dEsc",
+			"Movie_name": "Serial Killer",
+			"Description": "A billionaire Radha Ravi, hospital owner is killed, placed in his costly car and rolled down fourteen storeys. The arrogant son Guru Somadundaram arrives from the US and straightaway is established as an evil who obviously engineered his dad's death. Enter the diabetic cop Prakash Raj who immediately marks Guru and starts his investigation.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMmEzYjFhNWUtMTMxYS00NWY1LWIxODUtNDFmYTIwNzUzNGZiXkEyXkFqcGdeQXVyMTA0NTgwNjcz._V1_.jpg"
 		},
 		{
 			"id": 140,
-			"Video_Id": "",
-			"Movie_name": "",
-			"Description": "",
-			"Movieimg": ""
+			"Video_Id": "OCN_7oYfGIk",
+			"Movie_name": "Demonetization",
+			"Description": "Nityananda Shenoy, a gangster from Kasaragod, decides to exact revenge on an ex-minister who swindled him right before demonetisation. Meanwhile, Muthuvel and his mother struggle to survive in Kochi.",
+			"Movieimg": "https://i.ytimg.com/vi/OCN_7oYfGIk/maxresdefault.jpg"
 		},
 		{
 			"id": 141,
-			"Video_Id": "",
-			"Movie_name": "",
+			"Video_Id": "F_3onEsgc8c",
+			"Movie_name": "Detective Satyabhama",
 			"Description": "",
-			"Movieimg": ""
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BOWE4MTQ5MDgtNzZhMy00NDdlLWFlNTYtZWM1ZDVjZDFmN2E4XkEyXkFqcGdeQXVyMTA0MDMwNDEy._V1_.jpg"
 		},
 		{
 			"id": 142,
-			"Video_Id": "",
-			"Movie_name": "",
-			"Description": "",
-			"Movieimg": ""
+			"Video_Id": "z7Jn0APLkFY",
+			"Movie_name": "Praise The Lord",
+			"Description": "An immensely rich farmer lives a peacefully with his family in Pala and has no idea about the hectic metro life. He gets introduced to it when he hides a love-stricken couple in his house.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BZGYwOTVhMjUtNGZlZC00Mzg4LWI1ODUtOTYyMzM4YTdmZWEwXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_FMjpg_UX1000_.jpg"
 		},
 		{
 			"id": 143,
-			"Video_Id": "",
-			"Movie_name": "",
-			"Description": "",
-			"Movieimg": ""
+			"Video_Id": "V2e3Yo3EOpU",
+			"Movie_name": "Shenbahakottai",
+			"Description": "King Udayapandyan ruled some provinces of Tamil Nadu, 600 years ago. He fell in love with a huntress named Mathangi \"Ramya Krishnan\", married her and built her a bungalow near huntress forest.",
+			"Movieimg": "https://images.jdmagicbox.com/comp/jd_social/news/2018aug12/image-339923-86qlms6qoc.jpg"
 		},
 		{
 			"id": 144,
-			"Video_Id": "",
-			"Movie_name": "",
-			"Description": "",
-			"Movieimg": ""
+			"Video_Id": "7z54hT_pY68",
+			"Movie_name": "Theevram",
+			"Description": "The movie opens with a crime where a young man is beaten to death with a club in front of his fiance. Then comes an investigation officer Alexander, and an assistant Ramachandran.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BZmQwZmQzMWItZWZlYy00NWUyLWEwNWYtNGIyNzAwYzIxNTgwXkEyXkFqcGdeQXVyNDY5MTUyNjU@._V1_.jpg"
 		},
 		{
 			"id": 145,
-			"Video_Id": "",
-			"Movie_name": "",
-			"Description": "",
-			"Movieimg": ""
+			"Video_Id": "w7JCC_9wFLk",
+			"Movie_name": "Robot 2.0",
+			"Description": "When cell phones start to fly out of the hands of the inhabitants of Chennai, Doctor Vaseegaran and his android assistant, Nila, are called to the rescue; together, they face the supernatural powers of Pakshi Rajan.",
+			"Movieimg": "https://cdn.celpox.com/bby_uploads/media/d9b3adf210e77b14b723a6274d4447df.jpg"
 		},
 		{
 			"id": 146,
-			"Video_Id": "",
-			"Movie_name": "",
-			"Description": "",
-			"Movieimg": ""
+			"Video_Id": "zhZnesOgCD8",
+			"Movie_name": "Anjaniputhra",
+			"Description": "Viraj, an heir to a textile business, learns that Bhairava, a gangster, seeks to illegally acquire his family's land. A bitter enmity erupts between the two, causing bloodshed.",
+			"Movieimg": "https://images.ottplay.com/posters/Anjaniputra_2017_movie_poster_1.jpg"
 		},
 		{
 			"id": 147,
-			"Video_Id": "",
-			"Movie_name": "",
-			"Description": "",
-			"Movieimg": ""
+			"Video_Id": "FvA7ejQRKa8",
+			"Movie_name": "Octopus",
+			"Description": "Sunny's life hangs in the balance when his car skids off the road and dangles over the edge of a cliff while he is on the way to meet his wife who goes into labour.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BYTNjNmI3MzItN2Q3NS00OThiLTgxYmQtZjM5M2IyMTkwMTRlXkEyXkFqcGdeQXVyNDI5Njk2Mzc@._V1_.jpg"
 		},
 		{
 			"id": 148,
-			"Video_Id": "",
-			"Movie_name": "",
-			"Description": "",
-			"Movieimg": ""
+			"Video_Id": "s8y3i9Ju12c",
+			"Movie_name": "Dynamite",
+			"Description": "When Sivaji goes on a date with a woman and she gets kidnapped, he tries to convince the police about it but they do not trust him; he decides to go out of his way to find her.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BZmEwNDcwZTMtMGU3ZS00ZDE5LWExM2ItYTAzYjNhODYyN2MyL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTIwMzA1NTU@._V1_.jpg"
 		},
 		{
 			"id": 149,
