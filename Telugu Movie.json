@@ -1,6 +1,6 @@
 {
   "TeluguMovie" : {
-	  "Movie":[
+	"Movie":[
 		{
 			"id": 1,
 			"Video_Id": "OR3baA2yx7A",
@@ -1055,41 +1055,41 @@
 	"MovieSlider":[
 		{
 			"id": 1,
-			"Video_Id": "Qumm9iKpRe8",
+			"Video_Id": "_ckNG2Clw28",
 			"qurekaimg":"",
 			"qurekaimg2":"",
-			"Movie_name": "Rudhurudu",
-			"Movieimg":"https://i.ytimg.com/vi/Qumm9iKpRe8/maxresdefault.jpg",
+			"Movie_name": "Prem Kumar",
+			"Movieimg":"https://i.ytimg.com/vi/_ckNG2Clw28/maxresdefault.jpg",
             "Description": "",
             "Language": "Telugu"
 		},
 		{
 			"id": 2,
-			"Video_Id": "NNVx4vm8bxU",
+			"Video_Id": "RVLNBVK8auM",
 			"qurekaimg":"",
 			"qurekaimg2":"",
-			"Movie_name": "PS2",
-			"Movieimg":"https://i.ytimg.com/vi/NNVx4vm8bxU/maxresdefault.jpg",
+			"Movie_name": "JAILER",
+			"Movieimg":"https://i.ytimg.com/vi/RVLNBVK8auM/maxresdefault.jpg",
             "Description": "",
             "Language": "Telugu"
 		},
 		{
 			"id": 3,
-			"Video_Id": "BC9s_Zof_Xk",
+			"Video_Id": "dXac28Hswms",
 			"qurekaimg":"",
 			"qurekaimg2":"",
-			"Movie_name": "Virupaksha",
-			"Movieimg":"https://i.ytimg.com/vi/BC9s_Zof_Xk/maxresdefault.jpg",
+			"Movie_name": "Kousalya Supraja Rama",
+			"Movieimg":"https://i.ytimg.com/vi/dXac28Hswms/maxresdefault.jpg",
             "Description": "",
             "Language": "Telugu"
 		},
 		{
 			"id": 4,
-			"Video_Id": "qLGZbo_YjqE",
+			"Video_Id": "NrRhdApPgmQ",
 			"qurekaimg":"",
 			"qurekaimg2":"",
-			"Movie_name": "Ravanasura",
-			"Movieimg":"https://i.ytimg.com/vi/qLGZbo_YjqE/maxresdefault.jpg",
+			"Movie_name": "Samajavaragamana",
+			"Movieimg":"https://i.ytimg.com/vi/NrRhdApPgmQ/maxresdefault.jpg",
             "Description": "",
             "Language": "Telugu"
 		},
